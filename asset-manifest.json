@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tony-and-lauren-party/static/css/main.ec512230.css",
-    "main.js": "/tony-and-lauren-party/static/js/main.eadabd19.js",
-    "static/js/453.2920c592.chunk.js": "/tony-and-lauren-party/static/js/453.2920c592.chunk.js",
-    "index.html": "/tony-and-lauren-party/index.html",
-    "main.ec512230.css.map": "/tony-and-lauren-party/static/css/main.ec512230.css.map",
-    "main.eadabd19.js.map": "/tony-and-lauren-party/static/js/main.eadabd19.js.map",
-    "453.2920c592.chunk.js.map": "/tony-and-lauren-party/static/js/453.2920c592.chunk.js.map"
+    "main.css": "/static/css/main.ec512230.css",
+    "main.js": "/static/js/main.615dc555.js",
+    "static/js/453.2920c592.chunk.js": "/static/js/453.2920c592.chunk.js",
+    "index.html": "/index.html",
+    "main.ec512230.css.map": "/static/css/main.ec512230.css.map",
+    "main.615dc555.js.map": "/static/js/main.615dc555.js.map",
+    "453.2920c592.chunk.js.map": "/static/js/453.2920c592.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec512230.css",
-    "static/js/main.eadabd19.js"
+    "static/js/main.615dc555.js"
   ]
 }
