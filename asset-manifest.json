@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/tony-and-lauren-party/static/css/main.f855e6bc.css",
-    "main.js": "/tony-and-lauren-party/static/js/main.a2ffb8b8.js",
+    "main.css": "/tony-and-lauren-party/static/css/main.ec512230.css",
+    "main.js": "/tony-and-lauren-party/static/js/main.eadabd19.js",
     "static/js/453.2920c592.chunk.js": "/tony-and-lauren-party/static/js/453.2920c592.chunk.js",
-    "static/media/logo.svg": "/tony-and-lauren-party/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tony-and-lauren-party/index.html",
-    "main.f855e6bc.css.map": "/tony-and-lauren-party/static/css/main.f855e6bc.css.map",
-    "main.a2ffb8b8.js.map": "/tony-and-lauren-party/static/js/main.a2ffb8b8.js.map",
+    "main.ec512230.css.map": "/tony-and-lauren-party/static/css/main.ec512230.css.map",
+    "main.eadabd19.js.map": "/tony-and-lauren-party/static/js/main.eadabd19.js.map",
     "453.2920c592.chunk.js.map": "/tony-and-lauren-party/static/js/453.2920c592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.a2ffb8b8.js"
+    "static/css/main.ec512230.css",
+    "static/js/main.eadabd19.js"
   ]
 }
