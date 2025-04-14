@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3341bdc.css",
-    "main.js": "/static/js/main.a73b2b8a.js",
+    "main.css": "/static/css/main.7fcbcdd8.css",
+    "main.js": "/static/js/main.2fea5385.js",
     "static/js/453.2920c592.chunk.js": "/static/js/453.2920c592.chunk.js",
     "static/media/SeventyMoney-Regular.ttf": "/static/media/SeventyMoney-Regular.9c20ed67142d9ca7bb7c.ttf",
     "index.html": "/index.html",
-    "main.b3341bdc.css.map": "/static/css/main.b3341bdc.css.map",
-    "main.a73b2b8a.js.map": "/static/js/main.a73b2b8a.js.map",
+    "main.7fcbcdd8.css.map": "/static/css/main.7fcbcdd8.css.map",
+    "main.2fea5385.js.map": "/static/js/main.2fea5385.js.map",
     "453.2920c592.chunk.js.map": "/static/js/453.2920c592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3341bdc.css",
-    "static/js/main.a73b2b8a.js"
+    "static/css/main.7fcbcdd8.css",
+    "static/js/main.2fea5385.js"
   ]
 }
