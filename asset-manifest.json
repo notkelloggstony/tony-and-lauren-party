@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.975bf263.css",
-    "main.js": "/static/js/main.2acf9345.js",
+    "main.css": "/static/css/main.d349584f.css",
+    "main.js": "/static/js/main.2bd8d21a.js",
     "static/js/453.2920c592.chunk.js": "/static/js/453.2920c592.chunk.js",
     "static/media/courtyard-jackson-hotel-front.png": "/static/media/courtyard-jackson-hotel-front.9df3ceb240bfd4e67344.png",
     "static/media/bg.jpg": "/static/media/bg.d1dbbde8c0bb8990d580.jpg",
     "static/media/SeventyMoney-Regular.ttf": "/static/media/SeventyMoney-Regular.9c20ed67142d9ca7bb7c.ttf",
     "index.html": "/index.html",
-    "main.975bf263.css.map": "/static/css/main.975bf263.css.map",
-    "main.2acf9345.js.map": "/static/js/main.2acf9345.js.map",
+    "main.d349584f.css.map": "/static/css/main.d349584f.css.map",
+    "main.2bd8d21a.js.map": "/static/js/main.2bd8d21a.js.map",
     "453.2920c592.chunk.js.map": "/static/js/453.2920c592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.975bf263.css",
-    "static/js/main.2acf9345.js"
+    "static/css/main.d349584f.css",
+    "static/js/main.2bd8d21a.js"
   ]
 }
